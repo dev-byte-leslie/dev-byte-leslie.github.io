@@ -77,7 +77,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/leslie-murphy29',
+    linkedin: 'lesliemurphydev',
     website: 'https://www.lesliemurphy.dev',
     /*twitter: '',
     mastodon: '',
@@ -128,7 +128,7 @@ const CONFIG = {
       company: 'Fair Worlds',
       position: 'Unity Developer',
       from: 'March 2022',
-      to: 'Present',
+      to: 'July 2025',
       companyLink: 'https://www.fairworlds.com/',
     },
     {
